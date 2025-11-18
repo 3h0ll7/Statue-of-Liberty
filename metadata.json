@@ -1,0 +1,5 @@
+{
+  "name": "Liberty Lens - Cinematic Visualization",
+  "description": "A high-fidelity, interactive 3D visualization of the Statue of Liberty featuring real-time sunlight simulation, dynamic weather controls, and an AI-powered historical guide.",
+  "requestFramePermissions": []
+}
